@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Filip</ime>
+    <prezime>Tot</prezime>
+    <jmbg>1234567890123</jmbg>
+    <datumRodjenja>2002-06-15</datumRodjenja>
+    <godinaStudija>3</godinaStudija>
+    <studijskiProgram>Računarstvo</studijskiProgram>
+    <adresa>
+        <ulica>Ivana Gundulića 12</ulica>
+        <grad>Zagreb</grad>
+        <postanskiBroj>10000</postanskiBroj>
+    </adresa>
+</student>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Filip</ime>
+    <prezime>Tot</prezime>
+    <jmbg>1234567890123</jmbg>
+    <datumRodjenja>2002-06-15</datumRodjenja>
+    <godinaStudija>3</godinaStudija>
+    <kontakt>
+        <email>filip.tot@example.com</email>
+        <telefon>0912345678</telefon>
+    </kontakt>
+    <kolegiji>
+        <kolegij>
+            <naziv>Kalkulus</naziv>
+            <profesor>Ivana Horvat</profesor>
+            <ects>6</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Programiranje</naziv>
+            <profesor>Marko Kovač</profesor>
+            <ects>5</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Fizika</naziv>
+            <profesor>Petra Novak</profesor>
+            <ects>4</ects>
+        </kolegij>
+    </kolegiji>
+</student>
